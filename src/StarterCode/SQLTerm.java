@@ -9,5 +9,11 @@ public class SQLTerm {
 	public SQLTerm(  ){
 		
 	}
+	
+	
+	
+	
+	
+	
 
 }
